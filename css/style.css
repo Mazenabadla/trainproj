@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.clear {
+    clear: both;
+}
+
+.all-changes {
+    color: lightblue;
+    background-color: brown;
+    width: 450px;
+    border: black 2px solid;
+    padding: 5px;
+    margin-left: 10px;
+    text-align: justify;
+}
